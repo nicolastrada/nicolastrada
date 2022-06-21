@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is my GitHub profile.
 
 <!--
 **nicolastrada/nicolastrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastrada&theme=dark)](https://github.com/nicolastrada/github-readme-stats)
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastrada&theme=dark)](https://github.com/nicolastrada/github-readme-stats)
