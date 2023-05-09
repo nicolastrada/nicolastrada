@@ -1,6 +1,10 @@
 ### Hi There 👋
 
-This is my GitHub profile.
+This is my GitHub profile, and some of my stats.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastrada&hide_progress=false)](https://github.com/nicolastrada/github-readme-stats)
 
 <!--
 **nicolastrada/nicolastrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastrada&theme=dark)](https://github.com/nicolastrada/github-readme-stats)
