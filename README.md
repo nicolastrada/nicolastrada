@@ -2,7 +2,7 @@
 
 This is my GitHub profile, and some of my stats.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=merko)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=merko) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastrada&hide_progress=false)](https://github.com/nicolastrada/github-readme-stats)
 
