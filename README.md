@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-This is my GitHub profile, and some of my stats.
+This is my GitHub profile, and here some of my stats about my latest projects.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastrada&show_icons=true&theme=merko) -->
 
